@@ -1,0 +1,13 @@
+OK · tarea creada y visible en la lista
+OK · JSON guardado en localStorage bajo unidash360.tasks
+OK · tarea conservada después de recargar
+OK · edición actualiza sin duplicar
+OK · completado y filtro de completadas
+OK · reabrir excluye del filtro completadas
+OK · cancelar edición conserva la tarea
+OK · eliminación confirmada
+OK · eliminación permanece después de recargar
+OK · título HTML se escapa y no ejecuta código
+OK · Dashboard refleja las tareas guardadas
+OK · sin excepciones de JavaScript al navegar: 
+OK · vista móvil sin desbordamiento horizontal

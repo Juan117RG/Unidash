@@ -1,0 +1,28 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> unidash-clase-12oct2026@0.2.0 check
+> node scripts/check.mjs
+
+Sintaxis correcta en 12 archivos JavaScript.
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> unidash-clase-12oct2026@0.2.0 test
+> node --test tests/*.test.js
+
+✔ crear tarea y recuperarla del almacenamiento (4.099601ms)
+✔ editar conserva id, estado y fecha de creación (0.472398ms)
+✔ completar, reabrir y borrar persisten el cambio (0.272453ms)
+✔ filtros y vencimiento sin confundir hoy ni completadas (7.033528ms)
+✔ datos inválidos no escriben tareas (0.805271ms)
+✔ ejemplos se insertan una vez y no resucitan tareas eliminadas (1.195427ms)
+✔ actualización conserva las tareas de una versión anterior (0.289248ms)
+✔ preferencias y transacciones usan claves independientes (0.436055ms)
+✔ fallo de almacenamiento y datos corruptos no dan éxito falso (0.544665ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 104.102658
